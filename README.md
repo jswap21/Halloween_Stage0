@@ -1,1 +1,1 @@
-# Halloween_Stage0
+This is Halloween theme game.
